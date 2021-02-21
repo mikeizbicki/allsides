@@ -1,0 +1,117 @@
+url,type,name,bias
+http://www.motherjones.com/,News Media,Mother Jones,Left
+https://www.thepostmillennial.com/,News Media,The Post Millennial,Lean Right
+https://www.ajplus.net/,News Media,AJ+,Left
+,Author,Glenn Greenwald,Lean Left
+,Author,Charles Blow,Lean Left
+http://www.alternet.org/,News Media,AlterNet,Left
+http://www.bbc.com/,News Media,BBC News,Center
+https://apnews.com/,News Media,Associated Press,Center
+http://www.nypost.com/,News Media,New York Post (News),Lean Right
+,Author,David Leonhardt,Lean Left
+http://www.prageru.com,Think Tank / Policy Group,Prager University,Right
+http://washingtonexaminer.com/,News Media,Washington Examiner,Lean Right
+http://www.thenation.com,News Media,The Nation,Left
+http://www.npr.org/,News Media,NPR (Online News),Center
+https://www.newsmax.com/insiders/,News Media,Newsmax - Opinion,Right
+https://www.axios.com/,News Media,Axios,Center
+,Author,Thomas L. Friedman,Lean Left
+,Author,Michelle Alexander,Lean Left
+http://www.nbcnews.com,News Media,NBC News (Online),Lean Left
+http://www.theatlantic.com/,News Media,The Atlantic,Lean Left
+https://www.wired.com/,News Media,Wired,Center
+http://spectator.org/,News Media,The American Spectator,Right
+http://www.ijreview.com/,News Media,Independent Journal Review,Center
+http://www.bloomberg.com/,News Media,Bloomberg,Lean Left
+http://www.realclearpolitics.com/,News Media,RealClearPolitics,Center
+http://www.thedailybeast.com/,News Media,Daily Beast,Left
+,,Center for Responsive Politics,Lean Left
+http://dailycaller.com/,News Media,The Daily Caller,Right
+https://nypost.com/opinion/,News Media,New York Post (Opinion),Right
+https://thedispatch.com/,News Media,The Dispatch,Lean Right
+http://www.washingtontimes.com/,News Media,Washington Times,Lean Right
+,Author,Paul Krugman,Left
+http://www.businessinsider.com/,News Media,Business Insider,Center
+http://www.vanityfair.com/,News Media,Vanity Fair,Lean Left
+https://www.projectveritas.com/,News Media,Project Veritas,Lean Right
+,Author,Julie Mastrine,Lean Right
+http://www.newsmax.com/,News Media,Newsmax (News),Lean Right
+https://www.washingtonpost.com/,News Media,Washington Post,Lean Left
+http://www.cbsnews.com/,News Media,CBS News,Lean Left
+,News Media,One America News Network (OAN),Right
+https://news.google.com/,News Media,Google News,Lean Left
+http://www.theblaze.com/,News Media,TheBlaze.com,Right
+,Author,Jonah Goldberg,Right
+,Author,Ross Douthat,Lean Right
+,Author,Guest Writer - Left,Lean Left
+http://www.newsbusters.org,News Media,NewsBusters,Right
+http://online.wsj.com/public/page/news-opinion-commentary.html,News Media,Wall Street Journal (Opinion),Lean Right
+http://www.time.com/time/,News Media,Time Magazine,Lean Left
+https://www.poynter.org/,News Media,Poynter,Center
+http://townhall.com/,News Media,Townhall,Right
+http://www.reuters.com/,News Media,Reuters,Center
+,Author,Bret Stephens,Lean Right
+https://www.cnn.com/opinions,News Media,CNN (Opinion),Left
+,Author,Rick Wytmar,Lean Left
+https://www.mediamatters.org/,News Media,Media Matters,Left
+,Author,Michelle Goldberg,Left
+http://www.telegraph.co.uk/,News Media,The Telegraph - UK,Lean Right
+http://abcnews.go.com/,News Media,ABC News (Online),Lean Left
+http://www.usatoday.com/,News Media,USA TODAY,Center
+http://www.csmonitor.com/,News Media,Christian Science Monitor,Center
+http://www.cnn.com,News Media,CNN (Online News),Left
+,Author,Roger Cohen,Not Rated
+https://www.niemanlab.org/,News Media,Nieman Lab,Center
+https://www.marketwatch.com/,News Media,MarketWatch,Center
+http://www.theamericanconservative.com,News Media,The American Conservative,Lean Right
+http://thinkprogress.org/,News Media,ThinkProgress,Left
+https://www.npr.org/sections/opinion/,News Media,NPR (Opinion) ,Lean Left
+https://www.theepochtimes.com,News Media,The Epoch Times,Lean Right
+http://dailymail.co.uk,News Media,Daily Mail,Right
+,Author,Frank Bruni,Lean Left
+http://www.vox.com,News Media,Vox,Left
+http://www.dailykos.com,News Media,Daily Kos,Left
+,Author,Gail Collins,Not Rated
+https://www.thehill.com,News Media,The Hill,Center
+http://www.forbes.com/,News Media,Forbes,Center
+http://www.msnbc.com/,News Media,MSNBC,Left
+http://www.breitbart.com/,News Media,Breitbart News,Right
+,Author,Henry A. Brechter,Center
+http://fair.org/,News Media,FAIR,Lean Left
+http://www.economist.com/,News Media,The Economist,Lean Left
+https://www.theguardian.com/us,News Media,The Guardian,Lean Left
+http://www.nytimes.com/,News Media,New York Times (News),Lean Left
+http://www.politico.com/,News Media,Politico,Lean Left
+https://www.huffpost.com/,News Media,HuffPost,Left
+,Author,Ben Shapiro,Right
+http://thefederalist.com/,News Media,The Federalist,Right
+https://www.newyorker.com/,News Media,The New Yorker,Left
+http://www.snopes.com,News Media,Snopes,Center
+https://news.yahoo.com/tagged/360/,News Media,Yahoo! The 360,Mixed
+http://www.salon.com/,News Media,Salon,Left
+https://www.mrc.org/,News Media,Media Research Center,Right
+http://www.rawstory.com/,News Media,Raw Story,Left
+,Author,David Brooks,Lean Right
+https://jacobinmag.com/,News Media,Jacobin,Left
+http://online.wsj.com/,News Media,Wall Street Journal (News),Center
+http://www.dailywire.com/,News Media,The Daily Wire,Right
+https://theintercept.com,News Media,The Intercept,Left
+,News Media,The Root,Lean Left
+https://www.nytimes.com/section/opinion,News Media,New York Times (Opinion),Left
+http://buzzfeednews.com,News Media,BuzzFeed News,Left
+http://www.democracynow.org/,News Media,Democracy Now,Left
+https://www.yahoo.com/,News Media,Yahoo! News,Lean Left
+https://slate.com/,News Media,Slate,Left
+http://www.foxnews.com/,News Media,Fox News (Online News),Lean Right
+https://www.aljazeera.com/,News Media,Al Jazeera,Lean Left
+http://www.nationalreview.com/,News Media,National Review,Right
+http://www.investors.com,News Media,Investor's Business Daily,Lean Right
+http://www.foxnews.com/opinion.html,News Media,Fox News (Opinion),Right
+,Author,Lucy Pinto,Lean Left
+,News Media,Foreign Policy,Center
+https://apnews.com/APFactCheck,News Media,AP Politics & Fact Check,Lean Left
+,Author,Nicholas Kristof,Left
+https://www.newsweek.com/,News Media,Newsweek,Center
+http://www.propublica.org/,News Media,ProPublica,Lean Left
+http://reason.com/,News Media,Reason,Lean Right
+,Author,Maureen Dowd,Center
